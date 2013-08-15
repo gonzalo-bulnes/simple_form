@@ -1,10 +1,10 @@
 ![Simple Form Logo](https://raw.github.com/plataformatec/simple_form/master/simple_form.png)
 
-By [Plataformatec](http://plataformatec.com.br/).
+Forked from [Plataformatec](http://plataformatec.com.br/).
 
-[![Gem Version](https://fury-badge.herokuapp.com/rb/simple_form.png)](http://badge.fury.io/rb/simple_form)
-[![Build Status](https://api.travis-ci.org/plataformatec/simple_form.png?branch=master)](http://travis-ci.org/plataformatec/simple_form)
-[![Code Climate](https://codeclimate.com/github/plataformatec/simple_form.png)](https://codeclimate.com/github/plataformatec/simple_form)
+<!-- [![Gem Version](https://fury-badge.herokuapp.com/rb/simple_form.png)](http://badge.fury.io/rb/simple_form) -->
+[![Build Status](https://api.travis-ci.org/gonzalo-bulnes/simple_form.png?branch=master)](http://travis-ci.org/gonzalo-bulnes/simple_form)
+[![Code Climate](https://codeclimate.com/github/gonzalo-bulnes/simple_form.png)](https://codeclimate.com/github/gonzalo-bulnes/simple_form)
 
 Rails forms made easy.
 
